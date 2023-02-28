@@ -1,7 +1,57 @@
 /*CSS Jakke*/
+.box {
+    background-color: #150906;
+    text-align: right;
+}
 
+p {
+    color: #fcf425;
+}
 
+body{
+    background-color: #da1202;
+}
 
+.boxCurso p {
+    text-align: center;
+    font-size: 90px;
+    font-family: fantasy;
+}
+
+.boxCon{
+    text-align: center;
+    font-size: 50px;
+}
+.boxCon p{
+    color: black;
+}
+.listaOrdenada li{
+    color: aliceblue;
+}
+
+.codigoTexto{
+    text-align: center;
+}
+.codigoTexto p{
+    text-align: center;
+    color: aliceblue;
+    border: solid black;
+    background-color: #150906;
+    border-radius: 20px;
+    margin: 0%;
+    margin-right: 30%;
+    margin-left: 30%;
+}
+.col-4{
+
+}
+.col-8{
+    text-align: right;
+}
+.pFooter{
+    color: aliceblue;
+    font-size: 200%;
+}
 
 
 
