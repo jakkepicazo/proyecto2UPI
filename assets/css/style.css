@@ -81,3 +81,42 @@ body{
 
 /*-----------------------------------------------------------------------------------------------------------*/
 /*CSS Jordy*/
+.contenedor {
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.columna{
+    
+
+background-color: rgba(0, 119, 255, 0.377);
+padding: 10px;
+
+}
+
+.img-center{
+text-align: center;
+
+}
+
+.cont {
+    justify-content: center;
+    margin-top: 100px;
+    display: flex;
+    background-color: blue;
+    padding: 25px;
+}
+
+.text{
+color: yellow;
+
+    padding-left: 2px;
+
+}
+
+.h1{
+
+    text-align: center;
+}
