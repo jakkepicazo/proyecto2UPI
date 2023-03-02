@@ -188,12 +188,28 @@ font-size: 45px;
 }
 
 .body1{
-
     background-color: white;
 }
 
 .p2index4{
+    color: black;
 
-color: black;
+}
+.lineaAlpes{
+    border-bottom: 1px solid purple;
+}
 
+.alpes{     
+    color:purple;
+    font-size: 300%;
+    font-family: cursive;
+}
+
+.imagenBoton{
+    margin: 15px;
+}
+
+.Alpes2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: bisque;
 }
