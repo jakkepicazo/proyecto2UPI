@@ -52,12 +52,69 @@ body{
     color: aliceblue;
     font-size: 200%;
 }
+.logoHtml{
+    width: 100%;
+}
+.logoPhp{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 90vh;
+}
+.linea{
+    background-color: black;
+    text-align: center;
+}
+ .pLinea{
+    color: white;
+    font-size: 150%;
+}
 
+.pCurriculum{
+    color: black;
+}
 
+.LineaVertical{
+    border-left: 1px solid black;
+    text-align: center;
+}
 
+.containerLinea{
+    border-bottom: 1px solid black;
+}
+.bordeFoto{
+    text-align: center;
+    width: 60px;
+    border: 1px solid black;
+    margin: 30px;
+    margin-left: 55px;
+}
+.body2{
+    background-color: #4972c4;
+}
 
+.btn{
+    border-radius: 30px;
+    margin: 30px;
+    color: black;
+}
 
+.h1Somos{
+    color: white;
+    text-align: center;
+}
 
+.pBlanco{
+    color: white;
+}
+.imgQuienesSomos{
+    width: 50%;
+}
+
+.centrar{
+    text-align: center;
+}
 
 
 
